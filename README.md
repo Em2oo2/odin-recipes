@@ -1,0 +1,1 @@
+basic odin project to learn from scratch html/css/js
